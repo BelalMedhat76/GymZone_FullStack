@@ -1,4 +1,4 @@
-# Gym Website - Full Stack Application
+# Gym Website - Full Stack WebSite
 
 This is a fully responsive and animated Gym website built using **Next.js 15 (JavaScript)** for the frontend and **Python Django** for the backend. The application allows users to explore various fitness programs, register for memberships, and engage with the platform seamlessly.
 
